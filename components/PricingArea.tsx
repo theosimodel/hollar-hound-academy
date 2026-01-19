@@ -24,7 +24,7 @@ const PricingArea: React.FC = () => {
               </li>
               <li className="border-b border-gray-100 pb-4">
                 <span className="block font-bold text-secondary uppercase text-sm mb-1">Cost Structure</span>
-                <p className="text-gray-600">Pricing can vary based on individual needs and goals. <strong>Call for a custom quote</strong> today!</p>
+                <p className="text-gray-600">Pricing can vary based on individual needs and goals. <strong>Contact us for a custom quote</strong> today!</p>
               </li>
               <li className="border-b border-gray-100 pb-4">
                 <span className="block font-bold text-secondary uppercase text-sm mb-1">Puppy Packages</span>
